@@ -1,0 +1,1 @@
+Proje açıldığında sahne gelmezse, unity uygulamasının sol üst tarafında, file - open recent scene - hand landmark detection'u seçiniz.
